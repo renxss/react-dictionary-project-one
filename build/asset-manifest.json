@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-dictionary-project-one/static/css/main.e8e4d6fe.css",
+    "main.js": "/react-dictionary-project-one/static/js/main.135a0177.js",
+    "index.html": "/react-dictionary-project-one/index.html",
+    "static/media/shecodes-logo.svg": "/react-dictionary-project-one/static/media/shecodes-logo.015c361380ac8424c410abe125f521a6.svg",
+    "main.e8e4d6fe.css.map": "/react-dictionary-project-one/static/css/main.e8e4d6fe.css.map",
+    "main.135a0177.js.map": "/react-dictionary-project-one/static/js/main.135a0177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e4d6fe.css",
+    "static/js/main.135a0177.js"
+  ]
+}

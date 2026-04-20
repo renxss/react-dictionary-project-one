@@ -1,0 +1,8 @@
+<svg viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleSheCodesLogo">
+  <title id="titleSheCodesLogo">SheCodes logo</title>
+  <rect x="0" y="0" width="64" height="64" rx="16" fill="#6B46C1" />
+  <rect x="40" y="0" width="64" height="64" rx="16" fill="#56CCF2" />
+  <rect x="0" y="40" width="64" height="64" rx="16" fill="#EC4899" />
+  <rect x="40" y="40" width="64" height="64" rx="16" fill="#FCD34D" />
+  <text x="120" y="46" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="700" fill="#16172B">SheCodes</text>
+</svg>
