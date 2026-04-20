@@ -1,0 +1,70 @@
+body {
+  background: #e6e6fa;
+}
+
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.App-logo {
+  max-width: 220px;
+  margin: 0 auto 24px;
+  display: block;
+}
+
+section {
+  background: white;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+
+input {
+  width: 70%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #9670f4;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #7a5af0;
+}
+
+.Results {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.Results h2 {
+  color: #333;
+}
+
+.Results h3 {
+  color: #555;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
